@@ -1,2 +1,2 @@
-# Codetwix1
+# Codetwix
 An ai agency 
